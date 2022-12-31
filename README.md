@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinRPan 
-- 👀 I’m interested in building user-generated content in VR/AR
-- 🌱 I’m currently learning how to generate AI assets for game-building
+- 👀 I’m interested in building Data Science tools 
+- 🌱 I’m currently working on automating data analytics using generative AI
 - 💞️ I’m looking to collaborate on building a tool to do the above! 
 - 📫 How to reach me: build@kpan.dev
 
