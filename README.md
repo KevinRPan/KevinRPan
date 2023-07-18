@@ -7,7 +7,8 @@
 
 # Recent Public Projects
 - [Ask Data](https://askdata.app): Chat your Data 
-- [Generated Games](https://generated.games): Instant Drinking Game 
+- [Generated Games](https://generated.games): Instant Drinking Game (Railway free service now down)
+- [Prompt Engineer](https://promptengineer.streamlit.app/): See how much a better prompt makes a difference!
 
 
 <!---
